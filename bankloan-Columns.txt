@@ -1,0 +1,1 @@
+Columns=[age, salary, balance, day, campaign, pdays, previous, duration_in_min, housing_1, month_may]
