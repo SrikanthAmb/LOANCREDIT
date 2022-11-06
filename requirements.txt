@@ -3,3 +3,5 @@ sklearn
 numpy
 pandas
 matplotlib
+imblearn
+xgboost

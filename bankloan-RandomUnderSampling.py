@@ -1575,12 +1575,12 @@ print(xgb_result)
 # In[227]:
 
 
-ultimate_model={'xgb_classifier':'xgb_classifier','nb_classifier':'nb_classifier',
-                'adb_classifier':'adb_classifier',
-                'knn_classifier':'knn_classifier',
-                'dt_classifier':'dt_classifier',
-                'lr_classifier':'lr_classifier',
-                'rfc_classifier':'rfc_classifier'}
+ultimate_model={xgb_classifier:'xgb_classifier',nb_classifier:'nb_classifier',
+                adb_classifier:'adb_classifier',
+                knn_classifier:'knn_classifier',
+                dt_classifier:'dt_classifier',
+                lr_classifier:'lr_classifier',
+                rfc_classifier:'rfc_classifier'}
 
 
 # In[228]:
